@@ -57,7 +57,7 @@ header, footer {
     text-decoration: none;
 }
 
-/* Gaya untuk tata letak berita pada perangkat seluler */
+
 @media (max-width: 768px) {
     .container {
         flex-direction: column;
